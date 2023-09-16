@@ -48,5 +48,8 @@
     "ignore": [
       "html5bp/**"
     ]
+  },
+  "resolutions": {
+    "phantomjs-prebuilt/request/tough-cookie": ">=4.1.3"
   }
 }
